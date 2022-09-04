@@ -1,6 +1,7 @@
 ### ✨Hello,I'm lsWorl,a Web Engineer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsWorl)](https://github.com/lsWorl/github-readme-stats)
+![lsWorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsWorl&show_icons=true&theme=tokyonight)
 <!--
 **lsWorl/lsWorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

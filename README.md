@@ -66,7 +66,6 @@
   <div>![lsWorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsWorl&show_icons=true&theme=tokyonight)</div>
 </div>
 
-<br/>
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/lsWorl" target="_blank">

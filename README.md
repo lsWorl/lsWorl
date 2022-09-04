@@ -60,12 +60,7 @@
 </td></tr></table>  
 
 ### MyInfo
-<div>
-
-  <div>![lsWorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsWorl&show_icons=true&theme=tokyonight)</div>
-
-
-</div>
+![lsWorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsWorl&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsWorl)](https://github.com/lsWorl/github-readme-stats)
 ## Connect with me  
 <div align="center">

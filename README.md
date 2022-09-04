@@ -61,7 +61,7 @@
 
 ### MyInfo
 ![lsWorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsWorl&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsWorl)](https://github.com/lsWorl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsWorl&show_icons=true&theme=tokyonight)](https://github.com/lsWorl/github-readme-stats)
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/lsWorl" target="_blank">

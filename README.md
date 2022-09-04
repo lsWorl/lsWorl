@@ -60,8 +60,11 @@
 </td></tr></table>  
 
 ### MyInfo
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsWorl&show_icons=true)](https://github.com/lsWorl/github-readme-stats)
 ![lsWorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsWorl&show_icons=true)
+</div>
+
 
 ## Connect with me  
 <div align="center">

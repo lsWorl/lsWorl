@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm LsWorl, a future Web developer 👨‍💻</div>  
+### <div align="center">I'm LsWorl, a Web developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently studying on China  
   
 
-- 🌱 I’m currently learning Linux,node.js and typescript  
+- 🌱 I’m currently learning Linux,node.js,Flutter and typescript  
   
 
 <br/>  

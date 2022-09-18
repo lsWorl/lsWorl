@@ -60,8 +60,8 @@
 </td></tr></table>  
 
 ### MyInfo
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lsWorl&layout=compact&hide_border=true&langs_count=10)![lsWorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsWorl&show_icons=true)
-
+![lsWorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsWorl&show_icons=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lsWorl&layout=compact&hide_border=true&langs_count=10)
 
 
 ## Connect with me  
